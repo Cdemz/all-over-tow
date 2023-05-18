@@ -21,7 +21,7 @@ const NavBar: FC = ({}) => {
   return (
     <div className="w-full bg-[var(--color-bg)] relative font-prompt ">
       <div className=" text-[var(--color-text)] flex py-4 items-center justify-between  w-[95%] mx-auto ">
-        <h1 className=" leading-[10px]   font-extrabold   ">
+        <h1 className=" leading-[15px]   font-extrabold   ">
           ALL OVER <span className="block ">TOWING & RECOVERY</span>
         </h1>
         <nav>
